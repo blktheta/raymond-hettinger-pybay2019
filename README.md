@@ -1,4 +1,6 @@
-[![Raymond Hettinger PyBay2019][repo_logo_img]][repo_url]
+[![Raymond Hettinger PyBay2019][repo_banner_img]][repo_url]
+
+> Crop: “Snake Charmer”, Jean-Léon Gérôme, circa 1879, oil on canvas. [Image source.][repo_banner_url]
 
 # The Mental Game of Python - Raymond Hettinger
 
@@ -7,11 +9,9 @@
 [![Python code coverage][py_code_coverage_img]][repo_url]
 [![Repo license][repo_license_img]][repo_license_url]
 
-Notes from Raymond Hettinger's *The Mental Game of Python* talk presented at PyBay2019 conference. The talk features 10 pythonic strategies for managing complexity in your code. The full talk is availbable at [YouTube][rh_pybay2019_yt], the code examples in the repo are based on the presentation code..
+Notes from Raymond Hettinger's *The Mental Game of Python* talk presented at PyBay2019 conference. The talk features 10 pythonic strategies for managing complexity in your code. 
 
-## 📌 Table of contents
-* [Geeting started](#getting-started)
-* [Usage](#usage)
+The full talk is availbable at [YouTube][rh_pybay2019_yt], the code examples in the repo are based on the presentation code.
 
 ## ⚡️ Getting started
 First, [download][py_download_url] and install **Python**. Version `3.10.12` or higher is required.
@@ -30,18 +30,18 @@ If you want to say **thank you** or/and support a lone developers journey:
 
 ## ⚠️ License
 
-[`Project name`][repo_url] is free and open-source software licensed under the [MIT License][repo_license_url]. All designs were created by [Blk Theta][author] and distributed under Creative Commons license (CC BY-NC-SA 4.0 International).
+[`Raymond Hettinger PyBay2019`][repo_url] is free and open-source software licensed under the [MIT License][repo_license_url]. All designs were created by [Blk Theta][author] and distributed under Creative Commons license (CC BY-NC-SA 4.0 International).
 
 <!--Python-->
 [py_version_img]: https://img.shields.io/badge/Python-3.10.12-yellow?style=for-the-badge&logo=none
-[py_style_guide_img]: https://img.shields.io/badge/Style_guide-PEP8-success?style=for-the-badge&logo=none
-[py_code_coverage_img]: https://img.shields.io/badge/Code_coverage-XX-success?style=for-the-badge&logo=none
+[py_style_guide_img]: https://img.shields.io/badge/Style_guide-PEP8-blue?style=for-the-badge&logo=none
+[py_code_coverage_img]: https://img.shields.io/badge/Code_coverage-NA-success?style=for-the-badge&logo=none
 [py_download_url]: https://www.python.org/downloads/
 
 <!-- Repository -->
 [repo_url]: https://github.com/blktheta/raymond-hettinger-pybay2019
-[repo_logo_url]: https://github.com//blktheta/raymond-hettinger-pybay2019/
-[repo_logo_img]: https://github.com/blktheta/raymond-hettinger-pybay2019/media/SnakeCharmer-JeanLeonGerome.png
+[repo_banner_url]: https://upload.wikimedia.org/wikipedia/commons/a/a9/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_charmeur_de_serpents.jpg
+[repo_banner_img]: https://github.com/blktheta/raymond-hettinger-pybay2019/blob/main/media/SnakeCharmer-JeanLeonGerome.png
 [repo_wiki_img]: https://img.shields.io/badge/docs-wiki_page-blue?style=for-the-badge&logo=none
 [repo_license_url]: https://github.com/blktheta/raymond-hettinger-pybay2019/LICENSE
 [repo_license_img]: https://img.shields.io/badge/license-MIT-red?style=for-the-badge&logo=none
