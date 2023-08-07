@@ -16,12 +16,12 @@ The full talk is availbable at [YouTube][rh_pybay2019_yt], the code examples in 
 ## ⚡️ Getting started
 First, [download][py_download_url] and install **Python**. Version `3.10.12` or higher is required.
 
-That it it! Fire up you favourite IDE and open the **code/** directory.
+That it it! Fire up your favourite text editor and open the **code/** directory.
 
 ## 🔧 Usage
 Simply follow these two step:
-	1. Read through the docstring
-	2. If given, solve the excercises.
+1. Read through the docstring.
+2. If given, solve the excercises.
 
 If any concept outside the scope of the strategy being taught is not clear or familiar, take time to reasearch the subject before continuing.
 
