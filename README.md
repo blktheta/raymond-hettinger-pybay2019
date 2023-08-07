@@ -16,11 +16,14 @@ The full talk is availbable at [YouTube][rh_pybay2019_yt], the code examples in 
 ## ⚡️ Getting started
 First, [download][py_download_url] and install **Python**. Version `3.10.12` or higher is required.
 
-```bash
-docker command 
-```
+That it it! Fire up you favourite IDE and open the **code/** directory.
 
 ## 🔧 Usage
+Simply follow these two step:
+	1. Read through the docstring
+	2. If given, solve the excercises.
+
+If any concept outside the scope of the strategy being taught is not clear or familiar, take time to reasearch the subject before continuing.
 
 ## ⭐️ Project assistance
 If you want to say **thank you** or/and support a lone developers journey:
@@ -42,7 +45,6 @@ If you want to say **thank you** or/and support a lone developers journey:
 [repo_url]: https://github.com/blktheta/raymond-hettinger-pybay2019
 [repo_banner_url]: https://upload.wikimedia.org/wikipedia/commons/a/a9/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_charmeur_de_serpents.jpg
 [repo_banner_img]: https://github.com/blktheta/raymond-hettinger-pybay2019/blob/main/media/SnakeCharmer-JeanLeonGerome.png
-[repo_wiki_img]: https://img.shields.io/badge/docs-wiki_page-blue?style=for-the-badge&logo=none
 [repo_license_url]: https://github.com/blktheta/raymond-hettinger-pybay2019/LICENSE
 [repo_license_img]: https://img.shields.io/badge/license-MIT-red?style=for-the-badge&logo=none
 
