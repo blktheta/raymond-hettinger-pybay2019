@@ -14,6 +14,15 @@ any node in a tree:
     tree['two'][3]['seven'] -> 7
 
 Strategy: Solve related but simpler problem > Incremental development.
+
+Start by solving the simplest problem the original promt problem can be
+broken down into. Solve the simple problem. Later, develop the solution
+of the simple problem to better fit the original prompt problem. This
+should be done incrementally, until the promt problem is solved.
+
+Finally, use the logic from simpler solved problems to solve a more
+complex problem.
+
 """
 
 TREE = {
@@ -46,8 +55,6 @@ TREE = {
     ],
 }
 
-# Start by solving the simplest problem then
-# develop the solution incrementally.
 def count_target_1(target, node):
     """Check if the node is the target."""
     if target == node:
@@ -75,8 +82,6 @@ def count_target_3(target, node):
     return 0
 
 
-# Use the lagoc from simpler solved problems
-# to solve a more complex problem.
 def path_to_target(target, node):
     """Print the path to the target.
 
@@ -110,22 +115,29 @@ def main():
 
     p = print
 
+    # Solving for correct target
     p(count_target_1('blue', 'green'))
 
     p(count_target_1('blue', 'blue'))
 
     p(count_target_1('red', ['red', 'blue', 'red', 'red']))
 
+
+    # Solving for traversing a nested list
     p(count_target_2('blue', ['red', 'blue', 'red', 'red']))
 
     p(count_target_2('purple', ['red', 'blue', 'red', 'red']))
 
     p(count_target_2('red', ['red', ['blue', 'red'], 'red']))
 
+
+    # Solving for traversing a nseted list and dict
     p(count_target_3('red', TREE))
 
     p(count_target_3('BLUE', TREE))
 
+
+    # Solving for a more complex problem
     p(path_to_target('abc', 'abc'))
 
     p(path_to_target('abc', ['?', '?', '?', 'abc', '?']))
