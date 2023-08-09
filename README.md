@@ -1,6 +1,6 @@
 [![Raymond Hettinger PyBay2019][repo_banner_img]][repo_url]
 
-> Crop: “Snake Charmer”, Jean-Léon Gérôme, circa 1879, oil on canvas. [Image source.][repo_banner_url]
+> Crop: “Snake Charmer”, Jean-Léon Gérôme, *circa* 1879, oil on canvas. [Image source.][repo_banner_url]
 
 # The Mental Game of Python - Raymond Hettinger
 
