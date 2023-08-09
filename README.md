@@ -45,7 +45,7 @@ If you want to say **thank you** or/and support a lone developers journey:
 [repo_url]: https://github.com/blktheta/raymond-hettinger-pybay2019
 [repo_banner_url]: https://upload.wikimedia.org/wikipedia/commons/a/a9/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_charmeur_de_serpents.jpg
 [repo_banner_img]: https://github.com/blktheta/raymond-hettinger-pybay2019/blob/main/media/SnakeCharmer-JeanLeonGerome.png
-[repo_license_url]: https://github.com/blktheta/raymond-hettinger-pybay2019/LICENSE
+[repo_license_url]: https://github.com/blktheta/raymond-hettinger-pybay2019/blob/main/LICENSE.md
 [repo_license_img]: https://img.shields.io/badge/license-MIT-red?style=for-the-badge&logo=none
 
 <!-- Project -->
